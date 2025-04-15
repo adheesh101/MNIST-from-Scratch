@@ -26,7 +26,7 @@ Ensure you have the following installed:
   - `matplotlib`
   - `pandas`
 
-1. You can install the necessary libraries using:
+You can install the necessary libraries using:
 
 ```bash
 pip install numpy matplotlib pandas
